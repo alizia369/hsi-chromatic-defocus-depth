@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Relative Depth from Chromatic Aberration and Defocus Blur in a Single Hyperspectral Image"
+type: software
+authors:
+  - family-names: "Zia"
+    given-names: "Ali"
+repository-code: "https://github.com/alizia369/hsi-chromatic-defocus-depth"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Exploring Chromatic Aberration and Defocus Blur for Relative Depth Estimation from Monocular Hyperspectral Image"
+  authors:
+    - family-names: "Zia"
+      given-names: "Ali"
+    - family-names: "Zhou"
+      given-names: "Jun"
+    - family-names: "Gao"
+      given-names: "Yongsheng"
+  year: 2021
+  journal: "IEEE Transactions on Image Processing"
+  volume: "30"
+  start: "4357"
+  end: "4370"
+  url: "https://ieeexplore.ieee.org/document/9403964/"
